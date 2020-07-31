@@ -4,3 +4,4 @@ assert expression [, argument]
 ==
 if not expression:
     raise AssertionError(argeument)
+一般 [, argument]用来解释为什么会出错
