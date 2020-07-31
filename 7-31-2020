@@ -5,3 +5,7 @@ assert expression [, argument]
 if not expression:
     raise AssertionError(argeument)
 一般 [, argument]用来解释为什么会出错
+
+
+python sort/sorted
+sort应用在list上，sorted可以对所用可迭代的对象进行排序操作。
