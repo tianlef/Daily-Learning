@@ -1,0 +1,6 @@
+python3 assert
+用于判断一个表达式，在表达式为false时触发异常，直接返回错误
+assert expression [, argument]
+==
+if not expression:
+    raise AssertionError(argeument)
